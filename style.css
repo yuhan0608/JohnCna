@@ -1,3 +1,6 @@
+*{
+    margin: 0 auto;
+}
 html {
     background-color: #edf2c5;
     height: 940px;
@@ -60,7 +63,8 @@ html {
   .LOGIN {
     width: 46px;
     height: 15px;
-
+    position: absolute;
+    
     font-family: Arial;
     font-size: 14px;
     font-weight: bold;
@@ -84,6 +88,7 @@ html {
   .JOIN {
     width: 35px;
     height: 15px;
+    position: absolute;
 
     font-family: Arial;
     font-size: 14px;
